@@ -67,7 +67,7 @@ The system currently supports multiple exercises including:
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/AI-Powered-Exercise-Pose-Estimation.git
+git clone https://github.com/KhanHameedullah/AI-Powered-Exercise-Pose-Estimation.git
 ```
 
 Move into the project
@@ -110,16 +110,6 @@ During execution the project can
 
 ---
 
-## Folder Description
-
-| Folder | Purpose |
-|---------|----------|
-| src | Core implementation |
-| notebooks | Development notebook |
-| recordings | Recorded workout videos |
-| outputs | CSV files and graphs |
-| images | Screenshots |
-| docs | Documentation |
 
 ---
 
