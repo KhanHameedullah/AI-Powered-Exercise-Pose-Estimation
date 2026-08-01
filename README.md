@@ -62,32 +62,12 @@ The system currently supports multiple exercises including:
 
 ---
 
-## Installation
 
-Clone the repository
-
-```bash
-git clone https://github.com/KhanHameedullah/AI-Powered-Exercise-Pose-Estimation.git
-```
-
-Move into the project
-
-```bash
-cd AI-Powered-Exercise-Pose-Estimation
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 ## Run
 
 ```bash
-python main.py
+python gym.py
 ```
 
 The webcam will open automatically.
